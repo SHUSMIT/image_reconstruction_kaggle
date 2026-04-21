@@ -39,6 +39,13 @@ Noise residuals were isolated by computing `residual = corrupt − clean` (norma
 - **Channel-selective flooding** (sample 5) → global color drift → requires L1 to anchor the overall intensity space
 - This composite finding directly drove the **tri-fold hybrid loss design**: `0.6×SSIM + 0.3×L1 + 0.1×MSE`
 
+![Noise Distribution Samples](Screenshot 2026-04-18 194413.png)
+![Noise Distribution Samples](Screenshot 2026-04-18 194435.png)
+![Noise Distribution Samples](Screenshot 2026-04-18 194458.png)
+![Noise Distribution Samples](Screenshot 2026-04-18 194413.png)
+![Noise Distribution Samples](Screenshot 2026-04-18 194517.png)
+![Noise Distribution Samples](Screenshot 2026-04-18 194539.png)
+
 ---
 
 ## Architecture: Lightweight U-Net (Baseline → AttentionUNet v3)
