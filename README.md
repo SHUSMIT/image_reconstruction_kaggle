@@ -40,11 +40,7 @@ Noise residuals were isolated by computing `residual = corrupt − clean` (norma
 - This composite finding directly drove the **tri-fold hybrid loss design**: `0.6×SSIM + 0.3×L1 + 0.1×MSE`
 
 ![Noise Distribution Samples](Screenshot 2026-04-18 194413.png)
-![Noise Distribution Samples](Screenshot 2026-04-18 194435.png)
-![Noise Distribution Samples](Screenshot 2026-04-18 194458.png)
-![Noise Distribution Samples](Screenshot 2026-04-18 194413.png)
-![Noise Distribution Samples](Screenshot 2026-04-18 194517.png)
-![Noise Distribution Samples](Screenshot 2026-04-18 194539.png)
+![Noise Distribution Samples](<Screenshot 2026-04-18 194413.png>) ![Noise Distribution Samples](<Screenshot 2026-04-18 194435.png>) ![Noise Distribution Samples](<Screenshot 2026-04-18 194458.png>) ![Noise Distribution Samples](<Screenshot 2026-04-18 194413.png>) ![Noise Distribution Samples](<Screenshot 2026-04-18 194517.png>) ![Noise Distribution Samples](<Screenshot 2026-04-18 194539.png>)
 
 ---
 
